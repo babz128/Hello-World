@@ -1,11 +1,8 @@
 # Hello-World
-
 All good things start from somewhere. 
 
-
-# Premise
-
+## Premise
 Initial repository for printing hello world in a variety of programming languages
 
-# Author: 
+## Author 
 Solid Snake
