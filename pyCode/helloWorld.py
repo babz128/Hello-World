@@ -1,9 +1,10 @@
+#!/usr/bin/python
 # Author: Solid Snake
 # helloWorld.py: My first python entry to my personal repo
 # installed termcolor project using pip install: "python3 -m pip install termcolor"
 # Tried blessings project, but only compatible with python 2.7
 
-from termcolor import colored
+from termcolor import *
 
 def myPrint():
     print('Hello World')
